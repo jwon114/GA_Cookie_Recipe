@@ -3,7 +3,8 @@ html {
 	border-style: solid;
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 20px;
-
+	padding: 20px;
+	text-align: center;
 }
 
 .nutritionInfo {
@@ -20,4 +21,12 @@ html {
 
 h2 {
 	color: #8000ff;
+}
+
+.ingredientsMethod {
+	float: left;
+	padding: 10px;
+	text-align: left;
+	width: 450px;
+	margin-left: 20px;
 }
